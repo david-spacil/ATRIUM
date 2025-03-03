@@ -32,3 +32,6 @@ header .nav-link:hover {
 header .navbar-title {
     color: #edfded !important;
 }
+p {
+  text-align: justify;
+}
